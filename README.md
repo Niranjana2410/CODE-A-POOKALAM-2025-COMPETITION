@@ -61,7 +61,7 @@ python3  Pookkalam.py
 
 Code-a-Pookalam-2025/
 ├── README.md 
-├──  Pookkalam.py
+├── Pookkalam.py
 ├── preview.png
 
 
