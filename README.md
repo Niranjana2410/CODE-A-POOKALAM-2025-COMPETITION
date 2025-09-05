@@ -21,6 +21,7 @@ It is a symbol of harmony, prosperity, and the warm welcome extended during Onam
 
 Preview:
 ![Pookkalam preview](preview.png)
+![pookkalam preview](preview1.jpeg)
 
 Features:
 
@@ -63,6 +64,7 @@ Code-a-Pookalam-2025/
 ├── README.md 
 ├── Pookkalam.py
 ├── preview.png
+├── preview1.jpeg
 
 
 🎊 Happy Onam! 🎊
