@@ -20,7 +20,7 @@ It is a symbol of harmony, prosperity, and the warm welcome extended during Onam
  
 
 Preview:
-![Pookalam preview](blob:https://github.com/3ef1b361-5950-4676-8d5f-b66efc12ec59)
+![Pookkalam preview](preview.png)
 
 Features:
 
@@ -39,7 +39,7 @@ It blends traditional floral artistry with precise geometry, reflecting both Ker
 Prerequisites:  
 
 -Install Python 3.7+ from python.org.
--Save the file as athapookkallam.py.
+-Save the file as pookkalam.py.
 -Double-click the file — on most systems this will open a Python window and run the turtle graphics directly.
       OR
 -Install Python 3.7+ on your system.
@@ -51,17 +51,18 @@ Running the Code:
 
 If using terminal:-
 On Windows:
-       python POOKKALLAM.PY
+       python pookkalam.PY
                Or
-       py POOKKALLAM.py
+       py Pookkalam.py
 On Mac/Linux:
-python3 POOKKALLAM.py
+python3  Pookkalam.py
 
 📁 File Structure
 
 Code-a-Pookalam-2025/
 ├── README.md 
-├── POOKKALLAM.py
+├──  Pookkalam.py
+├── preview.png
 
 
 🎊 Happy Onam! 🎊
