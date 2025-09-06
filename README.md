@@ -21,8 +21,8 @@ It is a symbol of harmony, prosperity, and the warm welcome extended during Onam
  
 
 Preview:
-![Pookkalam preview](preview.png)
-![pookkalam preview](preview1.jpeg)
+![Pookkalam preview](preview.png) - still view
+![pookkalam animation](https://youtube.com/shorts/2KzEKibx6nY)
 
 Features:
 
@@ -44,12 +44,14 @@ The Pookkalam includes four symbols around the innermost ring, representing dive
 Prerequisites:  
 
 -Install Python 3.7+ from python.org.
+-install pygame and imageio
 -Save the file as pookkalam.py.
 -Double-click the file — on most systems this will open a Python window and run the turtle graphics directly.
       OR
 -Install Python 3.7+ on your system.
 -Install Visual Studio Code (VS Code).
 -In VS Code, install the Python extension.
+-install python and imageio
 -Open the file/folder in VS Code and select the correct Python interpreter (bottom-right corner).
 
 Running the Code:
@@ -68,7 +70,8 @@ Code-a-Pookalam-2025/
 ├── README.md 
 ├── Pookkalam.py
 ├── preview.png
-├── preview1.jpeg
+├──https://youtube.com/shorts/2KzEKibx6nY
+├──pygame,imageio
 
 
 🎊 Happy Onam! 🎊
