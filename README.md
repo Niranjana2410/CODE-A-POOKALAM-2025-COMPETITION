@@ -16,7 +16,8 @@ Onam in Kerala feels like a season when the land itself comes alive, with storie
  At the heart of it all lies the pookkalam❇️, a breathtaking floral design that blooms at every doorstep.
 It is a symbol of harmony, prosperity, and the warm welcome extended during Onam.
 
- In this design, six concentric circles represent the eternal cycle of life, unity and continuity, each carefully divided into square partitions that showcase colors arranged in balance and beauty. At the very heart rests a yellow centre circle, radiating brightness and positivity, surrounded by six pink petals symbolizing love, compassion, and the blossoming of joy. Together, the circles and petals weave a tapestry of tradition, where geometry and nature meet to create a vibrant expression of Onam’s spirit.
+ In this design, six concentric circles represent the eternal cycle of life, unity and continuity, each carefully divided into square partitions that showcase colors arranged in balance and beauty. At the very heart rests a yellow centre circle, radiating brightness and positivity, surrounded by six pink petals symbolizing love, compassion, and the blossoming of joy. Together, the circles and petals weave a tapestry of tradition, where geometry and nature meet to create a vibrant expression of Onam’s spirit.The four symbols placed around the Pookkalam represent diverse beliefs and knowledge, coming together in harmony. Their circular arrangement celebrates unity, coexistence, and respect for all paths, reflecting how diversity can create beauty and balance, just like the colors and patterns of the Pookkalam.
+
  
 
 Preview:
@@ -33,6 +34,9 @@ Each ring is divided into neat squares filled with vibrant shades, creating a ba
 
 Feature 3 – Cultural Essence:
 It blends traditional floral artistry with precise geometry, reflecting both Kerala’s rich heritage and the spirit of festive creativity.
+
+Feature 4:
+The Pookkalam includes four symbols around the innermost ring, representing diverse beliefs and knowledge.
 
 
 🚀 How to Run:
