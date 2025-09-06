@@ -22,8 +22,10 @@ It is a symbol of harmony, prosperity, and the warm welcome extended during Onam
 
 Preview:
 ![Pookkalam preview](preview.png) - still view
-![Pookkalam preview](preview1.png)
+![Pookkalam preview](preview1.png)-still view
+
 ![pookkalam animation](https://youtube.com/shorts/2KzEKibx6nY)
+
 
 Features:
 
