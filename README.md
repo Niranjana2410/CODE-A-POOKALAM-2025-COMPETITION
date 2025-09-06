@@ -24,7 +24,7 @@ Preview:
 ![Pookkalam preview](preview.png) - still view
 ![Pookkalam preview](preview1.png)-still view
 
-![pookkalam animation](https://youtube.com/shorts/2KzEKibx6nY)
+For pookkalam animation : ├──https://youtube.com/shorts/2KzEKibx6nY
 
 
 Features:
